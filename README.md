@@ -6,7 +6,6 @@ A multithreaded Java simulation that models fund transfers between two bank acco
 
 ### 📂 Project Structure
 
-```
 BankingSystemSimulation/
 ├── pom.xml
 └── src/
